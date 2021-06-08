@@ -2,7 +2,7 @@ Hi there 🖖 my name is Maksims 🇱🇻.
 
 Aspiring Software Developer in progress.
 
-At the moment studying and acquiring the necessary knowledge to become a Software Developer.
+Every day trying to learn new things to code better.
 After ten years in advertising and marketing I decited to change my life I hope this journey will be fun.
 I'm always looking for ways to broaden my horizons to evolve.
 
