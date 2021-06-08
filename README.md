@@ -1,16 +1,34 @@
-### Hi there 👋
+Hi there 🖖 my name is Maksims 🇱🇻.
 
-<!--
-**maksimsbogdanovs/maksimsbogdanovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer in progress.
 
-Here are some ideas to get you started:
+Currently studying and acquiring the necessary knowledge to become a Software Developer.
+After ten years in advertising and marketing I decited to change my life I hope this journey will be fun.
+I'm always looking for ways to broaden my horizons to evolve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on 🤹
+
+  website for my fiance
+  stock trading tool for personal use
+  
+  
+Contact me 📫
+
+  email: maksims.bogdanovs@gmail.com
+  LinkediIn: https://www.linkedin.com/in/maksimsbogdanovs/
+  
+  
+Current skills 🧗‍♂️
+
+  Git
+  C#
+  .NET
+  Relational Databses & SQL
+  HTTP & Web API Basics
+  Unit Testing
+  Test Driven Development
+  Clean Code, SOLID
+  Design Patterns
+  HTML & CSS, VueJS, TypeScript & NodeJS basics
+
+Fun fact:⚡ I love Pizza so everytime I order pizza I order Joe's special. 🤷‍♂️ 🍕
