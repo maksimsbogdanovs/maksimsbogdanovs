@@ -22,6 +22,7 @@ Current skills 🧗‍♂️
 
   - Git
   - C#
+  - Python
   - .NET
   - Relational Databses & SQL
   - HTTP & Web API Basics
