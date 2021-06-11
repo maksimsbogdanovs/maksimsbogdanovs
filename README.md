@@ -15,7 +15,7 @@ Currently working on 🤹
 Contact me 📫
 
   - email: maksims.bogdanovs@gmail.com
-  - LinkediIn: https://www.linkedin.com/in/maksimsbogdanovs/
+  - LinkedIn: https://www.linkedin.com/in/maksimsbogdanovs/
   
   
 Current skills 🧗‍♂️
